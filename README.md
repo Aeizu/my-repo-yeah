@@ -1,23 +1,9 @@
-# my-repo-yeah
+# Things for Aeizu to do
 
+By Komdog :D
 
-This is a line or something i dont know i havent tried cocaine
-
-* why is it called a "this.[whatever?]" You know?
-* why is it called a "this.[whatever?]" You know?
-* why is it called a "this.[whatever?]" You know?
-* why is it called a "this.[whatever?]" You know?
-* why is it called a "this.[whatever?]" You know?
-* why is it called a "this.[whatever?]" You know?
-* why is it called a "this.[whatever?]" You know?
-* why is it called a "this.[whatever?]" You know?
-* why is it called a "this.[whatever?]" You know?
-
-
-
-
-
-
+- Go download [Godot Learn](https://github.com/GDQuest/learn-gdscript/)
+- Clean your room. :D
 
 
 
